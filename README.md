@@ -6,7 +6,7 @@ This is a comprehensive, curated list of essential tools, repositories, and orga
 
 ## Official RISC-V Initiatives
 
-* **RISC-V International** - The primary organization maintaining and standardizing the RISC-V ISA.
+* **RISC-V International**: The primary organization maintaining and standardizing the RISC-V ISA.
     * [https://riscv.org/](https://riscv.org/)
 * **RISC-V Training**: Access official training and certification programs.
     * [https://riscv.org/community/training/](https://riscv.org/community/training/)
