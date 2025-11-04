@@ -8,14 +8,14 @@ This is a comprehensive, curated list of essential tools, repositories, and orga
 
 * **RISC-V International** - The primary organization maintaining and standardizing the RISC-V ISA.
     * [https://riscv.org/](https://riscv.org/)
-    * **RISC-V Training**: Access official training and certification programs.
-        * [https://riscv.org/community/training/](https://riscv.org/community/training/)
-    * **"Learn RISC-V"**: A fantastic community-driven GitHub repository offering a massive list of learning resources.
-        * [https://github.com/riscv/learn](https://github.com/riscv/learn)
-    * **RISC-V Ecosystem Landscape**: Explore the complete landscape of all RISC-V projects, products, and contributing organizations.
-        * [https://landscape.riscv.org/](https://landscape.riscv.org/)
-    * **RISC-V Developer Boards**: Information on how to acquire free RV32/RV64 development boards for testing and projects.
-        * [https://riscv.org/developers/boards/](https://riscv.org/developers/boards/)
+* **RISC-V Training**: Access official training and certification programs.
+    * [https://riscv.org/community/training/](https://riscv.org/community/training/)
+* **"Learn RISC-V"**: A fantastic community-driven GitHub repository offering a massive list of learning resources.
+    * [https://github.com/riscv/learn](https://github.com/riscv/learn)
+* **RISC-V Ecosystem Landscape**: Explore the complete landscape of all RISC-V projects, products, and contributing organizations.
+    * [https://landscape.riscv.org/](https://landscape.riscv.org/)
+* **RISC-V Developer Boards**: Information on how to acquire free RV32/RV64 development boards for testing and projects.
+    * [https://riscv.org/developers/boards/](https://riscv.org/developers/boards/)
 
 ---
 
