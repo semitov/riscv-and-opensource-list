@@ -23,12 +23,14 @@ This is a comprehensive, curated list of essential tools, repositories, and orga
 
 * **RISE Project (RISC-V Software Ecosystem)**: Dedicated to ensuring robust software compatibility and reducing fragmentation across all RISC-V implementations.
     * [https://riseproject.dev/](https://riseproject.dev/)
-* **PULP Platform**: A high-impact research group (University of Bologna/ETH Zürich) pioneering **energy-efficient RISC-V cores** and full chip designs.
+* **PULP Platform**: A research group (University of Bologna/ETH Zürich) pioneering **energy-efficient RISC-V cores** and full chip designs.
     * [https://www.pulp-platform.org/](https://www.pulp-platform.org/)
+* **DARE-RISC-V**: European initiative focusing on adopting RISC-V on HPC and AI.
+    * [https://dare-riscv.eu/](https://dare-riscv.eu/)
 
 ---
 
-## General Open Source
+## General Open Source Tools
 
 ### For CPU and Silicon Development (EDA)
 
