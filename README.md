@@ -1,4 +1,4 @@
-# The RISC-V and Open Source Hardware/Software Ecosystem
+# SemiTO-V list of RISC-V and Open Source Hardware/Software tools
 
 This is a comprehensive, curated list of essential tools, repositories, and organizations dedicated to advancing the **RISC-V** Instruction Set Architecture (ISA) and the broader **Open Source Hardware** and **Software** landscape.
 
@@ -32,8 +32,10 @@ This is a comprehensive, curated list of essential tools, repositories, and orga
 
 ## General Open Source Tools
 
-### For CPU and Silicon Development (EDA)
+### For CPU and Silicon Development (RTL and EDA)
 
+* **Verilator**: An open source tool for Verilog/SystemVerilog simulator:
+    * [https://github.com/verilator/verilator](https://github.com/verilator/verilator)
 * **Yosys**: An open source framework for Verilog RTL synthesis.
     * [https://github.com/YosysHQ/yosys](https://github.com/YosysHQ/yosys)
 * **OpenROAD Project**: Fully automated and open source flow for generating physical chip layouts (RTL-to-GDS).
