@@ -1,6 +1,6 @@
 # SemiTO-V list of RISC-V and Open Source Hardware/Software tools
 
-This is a comprehensive, curated list of essential tools, repositories, and organizations dedicated to advancing the **RISC-V** Instruction Set Architecture (ISA) and the broader **Open Source Hardware** and **Software** landscape.
+This is a comprehensive list of essential tools, repositories, and organizations dedicated to advancing the **RISC-V** Instruction Set Architecture (ISA) and the broader **Open Source Hardware** and **Software** landscape. It is curated by [SemiTO-V](https://semitov.com/), first RISC-V student team in Europe.
 
 ---
 
@@ -62,6 +62,31 @@ This is a comprehensive, curated list of essential tools, repositories, and orga
     * [https://www.kicad.org/](https://www.kicad.org/)
 * **Qucs-S**: An open source circuit simulation software that is fully compatible with LTSpice.
     * [https://ra3xdh.github.io/](https://ra3xdh.github.io/)
+
+---
+
+## Chips, FPGA, devboards and other hardware
+ 
+Here is listing only the hardware in active use by the team. For more, see [boards section of official RISC-V Learn repository](https://github.com/riscv/learn?tab=readme-ov-file#available-risc-v-boards-development-kits-tablets-and-laptops).
+
+### 32-bit Microcontroller chips
+* **RP2350**: A chip by Raspberry Pi containing two dual RISC-V (Hazard3) and ARM based cores.
+* **ESP32**: Family of 32-bit MCU chips that support WiFi and BLE. We only use C3, C6 and P4 that are RISC-V based.
+
+### 64-bit chips
+* **StarFive**: Family of 64-bit RISC-V based SoCs capable of running Linux.
+* **ESWIN**: Family of 64-bit RISC-V based SoCs with NPUs.
+* **SpacemIT K3**: First RVA23 compilant RISC-V based SoC in the world.
+
+### FPGA chips
+* **GOWIN GW1NR**: Family of low-cost FPGA chips.
+* **Xilinx Zinq 7020**: A high performance FPGA chip with a built-in ARM core.
+
+### Development boards and other hardware
+* **DC-ROMA Mainboard I**: First Framework laptop compatible RISC-V based motherboard developed by DeepComputing, containing StarFive JH7110 SoC.
+* **DC-ROMA Mainboard II**: First AI-capable RISC-V Framework laptop mainboard, containing ESWIN EIC7702X.
+* **TANG NANO 9K**: Low-cost FPGA by Sipeed containing GOWIN GW1NR 9K variant.
+* **Raspberry Pi Pico 2 and other RP2350 based boards**: MCU boards containing RP2350 chips (both A and B variants).
 
 ---
 
